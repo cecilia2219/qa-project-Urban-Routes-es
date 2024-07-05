@@ -61,3 +61,7 @@
 -   Aparece el modal para buscar un taxi.
 - 	Esperar a que aparezca la información del conductor en el modal (opcional). Además de los pasos anteriores, hay un paso opcional que puedes comprobar; este es un poco más complicado que los demás, pero es una buena práctica, ya que es probable que en tu trayectoria profesional encuentres tareas más difíciles.
 
+
+## Correcciones realizadas.
+-   Se me solicita "explorar por lo menos 1 tipo de selector más  ¿Quizás ClassName o CSS?", sin  embargo, si uso el selector por nombre, en los  localizadores como, "ask_a_taxi",  "tariff" y "final_button",  son buscalo por CLASS_NAME
+-  Se me  solicita "En el README.md hay que mencionar el comando completo que se usa para ejecutar el proyecto: pytest folder/de/proyecto/tests.py", pero no se a que  se refiera, solicito mayor informacion
