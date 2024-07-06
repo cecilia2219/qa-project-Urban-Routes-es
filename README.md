@@ -35,6 +35,7 @@
   - Instalar la configuracion Pytest
   - Instalar Selenium webdriver
   - Una vez instalado lso paquetes anteriores, para corer  el codigo de forma correcta,  se  debera de actualizar la variable "urban_routes_url", en   el  archivo daata.py, con la url de un nuevo servidor de la aplicacion Urban Routes, ya que el servidor deja de funcionar despues de un  tiempo
+  -pytest main.py Linea de comando para ejecutar todas las pruebas 
 
 ## Contenido de los diferentes archivos
 - main.py: Se encuentra el codigo con los metodos y pruebas solicitadas.
